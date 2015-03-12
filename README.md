@@ -1,8 +1,4 @@
-# Scratch
-
-A basic project for demonstrating new techniques
-
-## Setup
+# Boilerplate
 
 After installing Node.js:
 
@@ -10,3 +6,5 @@ After installing Node.js:
 npm install -d
 npm start
 ```
+
+Then visit http://localhost:8080
